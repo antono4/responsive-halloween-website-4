@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/responsive-halloween-website-4"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/responsive-halloween-website-4-blue?logo=github"></a>
   <a href="https://antono4.github.io/responsive-halloween-website-4/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-17-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 15:14:27 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 19:58:43 WIB-lightgrey">
 </p>
 
 ---
@@ -63,4 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-30 15:14:27 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-30 19:58:43 WIB** oleh GitHub Actions .</sub>
