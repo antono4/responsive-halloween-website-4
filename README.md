@@ -1,1 +1,26 @@
-Last updated: 2026-09-01 09:06:16 WIB
+# responsive-halloween-website-4
+
+
+
+## 📋 Overview
+
+This repository contains **17 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-01 11:46:44 WIB*
